@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "204067565885",
+    "firebase_url": "https://mapquest-bf4b1.firebaseio.com",
+    "project_id": "mapquest-bf4b1",
+    "storage_bucket": "mapquest-bf4b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204067565885:android:35d5d6653178e56b",
+        "android_client_info": {
+          "package_name": "com.example.questboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204067565885-v2rp50mlakcko7vppa38bs8s19b4458c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.questboard",
+            "certificate_hash": "221c268317e618e5dab46727810451a36d5e1893"
+          }
+        },
+        {
+          "client_id": "204067565885-chmkdr3c1545ov0hse2fl9t8k2hrch6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9F25CulGQlZ1affUnjGOuKx32ijVo3Rg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204067565885-chmkdr3c1545ov0hse2fl9t8k2hrch6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
