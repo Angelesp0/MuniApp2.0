@@ -57,6 +57,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             return;
         }
         mMap.setMyLocationEnabled(true);
+        mMap.setInfoWindowAdapter(new CustomInfoWindowAdapter(MapsActivity.this));
+
 
         // buscamos en la base de datos de firebase el nodo usuarios y agregamos un evento para obtener sus datos
         mDatabase.child("usuarios").addValueEventListener(new ValueEventListener() {
