@@ -3,3 +3,4 @@
 - https://developers.google.com/android/reference/com/google/android/gms/location/FusedLocationProviderClient
 - https://developers.google.com/maps/documentation/android-sdk/start
 - https://developers.google.com/android/reference/com/google/android/gms/maps/model/MarkerOptions
+- https://www.youtube.com/watch?v=DhYofrJPzlI
